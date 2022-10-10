@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Faizan00parvez/Faizan00parvez/blob/main/Temp-1200x300.jpg)
 <h1 align="center">Hi 👋, I'm Faizan Parvez</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
