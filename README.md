@@ -153,7 +153,7 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-parvez-59b8a91b9/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanparvez30@gmail.com)
-[![IEEE](https://img.shields.io/badge/IEEE_Xplore-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![IEEE](https://img.shields.io/badge/IEEE_Xplore-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11389684)
 [![Credly](https://img.shields.io/badge/Credly-3x_AWS_Certified-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faizan-parvez)
 
 </div>
