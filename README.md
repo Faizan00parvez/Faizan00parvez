@@ -9,7 +9,10 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=650&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes+%7C+GitOps;IEEE+Published+Researcher;3x+AWS+Certified+%F0%9F%8F%86;Open+to+Freelance+%F0%9F%9F%A2)](https://github.com/Faizan00parvez)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=650&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes+%7C+GitOps;IEEE+Published+Researcher;AWS+Certified+%7C+2x+Academy+Graduate;Open+to+Freelance+%F0%9F%9F%A2)](https://github.com/Faizan00parvez)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-faizanxbuilds.github.io-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizanxbuilds.github.io)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-DeployWatch-00C853?style=for-the-badge&logo=github-pages&logoColor=white)](https://faizanxbuilds.github.io/DeployWatch/)
 
 </div>
 
@@ -17,12 +20,12 @@
 
 ### `$ whoami`
 
-Cloud & DevOps Engineer with hands-on experience building **production-grade infrastructure** and **automated CI/CD pipelines**. IEEE published researcher in cloud resource optimization. 3x AWS Certified. I turn manual, error-prone ops into clean, observable, GitOps-driven systems.
+Cloud & DevOps Engineer with hands-on experience building **production-grade infrastructure** and **automated CI/CD pipelines**. IEEE published researcher in cloud resource optimization. AWS Certified (plus 2x AWS Academy graduate). I turn manual, error-prone ops into clean, observable, GitOps-driven systems.
 
 ```yaml
 role:        Cloud & DevOps Engineer
 focus:       Infrastructure as Code · CI/CD · Kubernetes · GitOps · Observability
-certified:   AWS Cloud Practitioner · Cloud Architecting · Microservices & CI/CD
+certified:   AWS Certified Cloud Practitioner · AWS Academy: Cloud Architecting, Microservices & CI/CD
 research:    IEEE Xplore — Real-Time Load-Aware Resource Allocation in Cloud Systems
 status:      🟢 Open to Freelance — Cloud migrations, infra automation, DevOps consulting
 response:    Within 24 hours · faizanparvez30@gmail.com
@@ -35,8 +38,8 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 <div align="center">
 
 [![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/dcd999c2-ef93-4405-88f2-8c0108ddb70d/public_url)
-[![AWS Arch](https://img.shields.io/badge/AWS_Cloud_Architecting-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/630ed6cf-18c4-40dc-96a4-c0848406f34e/public_url)
-[![AWS CI/CD](https://img.shields.io/badge/AWS_Microservices_%26_CI%2FCD-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/a558f4fc-4857-49ab-a140-5329b259ea10/public_url)
+[![AWS Arch](https://img.shields.io/badge/AWS_Cloud_Architecting-Academy_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/630ed6cf-18c4-40dc-96a4-c0848406f34e/public_url)
+[![AWS CI/CD](https://img.shields.io/badge/AWS_Microservices_%26_CI%2FCD-Academy_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/a558f4fc-4857-49ab-a140-5329b259ea10/public_url)
 
 </div>
 
@@ -44,7 +47,7 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 
 ### `$ ls -la projects/`
 
-**🚀 [DeployWatch](https://github.com/Faizan00parvez/DeployWatch)** — *GitOps Deployment Pipeline*
+**🚀 [DeployWatch](https://github.com/faizanxbuilds/DeployWatch)** — *GitOps Deployment Pipeline* · [🔴 Live Demo](https://faizanxbuilds.github.io/DeployWatch/)
 
 > Zero-touch Kubernetes deployments via ArgoCD + Helm on every GitHub push, with automatic rollback on failure. Full observability stack with Prometheus + Grafana monitoring CPU/memory live.
 
@@ -56,7 +59,7 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 
 ---
 
-**🏗️ [CloudForge — AWS Infrastructure Automation](https://github.com/Faizan00parvez/cloudforge-aws-infra)** — *Production-grade IaC*
+**🏗️ [CloudForge — AWS Infrastructure Automation](https://github.com/Faizan00parvez/cloudforge-aws-infra)*** — *Production-grade IaC*
 
 > Full AWS infrastructure via Terraform across 4 custom modules — networking, compute, storage, monitoring. Built for real-world concurrent team use.
 
@@ -85,7 +88,6 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 **Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **IaC & Containers**
@@ -140,6 +142,7 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 {
   "name":      "Faizan Parvez",
   "email":     "faizanparvez30@gmail.com",
+  "portfolio": "https://faizanxbuilds.github.io",
   "linkedin":  "linkedin.com/in/faizan-parvez-59b8a91b9",
   "location":  "Greater Noida, India (IST · UTC+5:30)",
   "research":  "IEEE Xplore — Real-Time Load-Aware Resource Allocation in Cloud Systems",
@@ -154,7 +157,7 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-parvez-59b8a91b9/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanparvez30@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE_Xplore-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11389684)
-[![Credly](https://img.shields.io/badge/Credly-3x_AWS_Certified-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faizan-parvez)
+[![Credly](https://img.shields.io/badge/Credly-AWS_Certified_%2B_Academy-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faizan-parvez)
 
 </div>
 
