@@ -128,8 +128,6 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan00parvez&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF9900&title_color=FF9900&bg_color=0d1117)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faizan00parvez&theme=github-dark-blue&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&background=0d1117)
 
 </div>
