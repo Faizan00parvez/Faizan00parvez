@@ -71,6 +71,18 @@ response:    Within 24 hours · faizanparvez30@gmail.com
 
 ---
 
+**📊 [PulseDeck](https://github.com/Faizan00parvez/pulsedeck)** — *Public Uptime & Status Dashboard* · [🟢 Live Dashboard](https://faizanxbuilds-status.vercel.app/)
+
+> A live status page built and operated like production: a scheduled prober checks 5 services, stores every result in git, and files an incident automatically when something goes down.
+
+- GitHub Actions prober checks 5 live services on a schedule, recording reachability, latency and HTTP status with a 10s timeout
+- Results versioned in git itself: rolling samples, daily aggregates and incidents in `state.json` on an orphan `data` branch — no database to host or back up
+- Up → down transition auto-opens a GitHub Issue, recovery auto-closes it; Next.js dashboard + JSON API serve live status from Vercel with zero rebuilds per probe
+
+`Next.js` `TypeScript` `GitHub Actions` `Node.js` `Vercel` `SRE`
+
+---
+
 **📡 Cloud Resource Allocation Simulator** — *IEEE Research Tool*
 
 > Python simulation modeling real-time load-aware resource allocation across cloud clusters — the tool behind my IEEE Xplore paper.
