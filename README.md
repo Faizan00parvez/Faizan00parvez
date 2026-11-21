@@ -1,37 +1,14 @@
-<div align="center">
+# Faizan Parvez
 
-```
-███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║
-█████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║
-██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║
-██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+I build small systems to study what happens after deployment. My work spans AWS infrastructure, Kubernetes delivery pipelines and service monitoring. I'm based in Greater Noida and interested in early-career cloud and DevOps roles.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=650&height=45&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes+%7C+GitOps;IEEE+Published+Researcher;AWS+Certified+%7C+2x+Academy+Graduate;Open+to+Freelance+%F0%9F%9F%A2)](https://github.com/Faizan00parvez)
+## Try my latest experiment
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-faizanxbuilds.github.io-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizanxbuilds.github.io)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-DeployWatch-00C853?style=for-the-badge&logo=github-pages&logoColor=white)](https://faizanxbuilds.github.io/DeployWatch/)
+**The missing four** follows 100 successful checkout requests. Overall p95 was 31 ms, but four shoppers waited over 600 ms. Pick an order, follow the trace into shipping, then compare the same route after recovery. [Investigate the incident](https://checkout-incident-lab.vercel.app) ? [Reproduce the run](https://github.com/Faizan00parvez/checkout-incident-lab)
 
-</div>
+For a system that runs on a schedule, PulseDeck records uptime checks in Git and opens an incident when a service goes down. [Live status](https://faizanxbuilds-status.vercel.app/) ? [Source](https://github.com/Faizan00parvez/pulsedeck)
 
----
-
-### `$ whoami`
-
-Cloud & DevOps Engineer with hands-on experience building **production-grade infrastructure** and **automated CI/CD pipelines**. IEEE published researcher in cloud resource optimization. AWS Certified (plus 2x AWS Academy graduate). I turn manual, error-prone ops into clean, observable, GitOps-driven systems.
-
-```yaml
-role:        Cloud & DevOps Engineer
-focus:       Infrastructure as Code · CI/CD · Kubernetes · GitOps · Observability
-certified:   AWS Certified Cloud Practitioner · AWS Academy: Cloud Architecting, Microservices & CI/CD
-research:    IEEE Xplore — Real-Time Load-Aware Resource Allocation in Cloud Systems
-status:      🟢 Open to Freelance — Cloud migrations, infra automation, DevOps consulting
-response:    Within 24 hours · faizanparvez30@gmail.com
-```
-
----
+[Build notes on X](https://x.com/faizanxbuilds) ? [Portfolio](https://faizanxbuilds.github.io) ? [LinkedIn](https://www.linkedin.com/in/faizan-parvez-59b8a91b9/)
 
 ### `$ cat /etc/certifications`
 
