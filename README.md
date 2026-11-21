@@ -4,7 +4,7 @@ I build small systems to study what happens after deployment. My work spans AWS 
 
 ## Try my latest experiment
 
-**The missing four** follows 100 successful checkout requests. Overall p95 was 31 ms, but four shoppers waited over 600 ms. Pick an order, follow the trace into shipping, then compare the same route after recovery. [Investigate the incident](https://checkout-incident-lab.vercel.app) ? [Reproduce the run](https://github.com/Faizan00parvez/checkout-incident-lab)
+**Slip 025** follows 100 successful checkout requests. Overall p95 was 31 ms, but four shoppers waited over 600 ms. Pick an order, follow the trace into shipping, then compare the same route after recovery. [Investigate the incident](https://checkout-incident-lab.vercel.app) ? [Reproduce the run](https://github.com/Faizan00parvez/checkout-incident-lab)
 
 For a system that runs on a schedule, PulseDeck records uptime checks in Git and opens an incident when a service goes down. [Live status](https://faizanxbuilds-status.vercel.app/) ? [Source](https://github.com/Faizan00parvez/pulsedeck)
 
