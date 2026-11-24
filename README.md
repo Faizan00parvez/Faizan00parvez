@@ -2,9 +2,15 @@
 
 I build small systems to study what happens after deployment. My work spans AWS infrastructure, Kubernetes delivery pipelines and service monitoring. I'm based in Greater Noida and interested in early-career cloud and DevOps roles.
 
-## Try my latest experiment
+## Featured DevOps projects
 
-**Slip 025** follows 100 successful checkout requests. Overall p95 was 31 ms, but four shoppers waited over 600 ms. Pick an order, follow the trace into shipping, then compare the same route after recovery. [Investigate the incident](https://checkout-incident-lab.vercel.app) ? [Reproduce the run](https://github.com/Faizan00parvez/checkout-incident-lab)
+**Slip 025** | A checkout latency lab. All 100 requests succeeded and p95 was 31 ms, while four shoppers waited over 600 ms. Follow the OpenTelemetry trace for order 025 into shipping, then compare it with recovery.
+
+[Live demo](https://checkout-incident-lab.vercel.app) | [Source and setup](https://github.com/Faizan00parvez/checkout-incident-lab)
+
+**Holdpoint** | A canary rollout lab that sends one in five requests to a new version. Replay a faulty release that sends traffic back to stable and a healthy release that takes over.
+
+[Live demo](https://faizan00parvez.github.io/holdpoint/) | [Source and setup](https://github.com/Faizan00parvez/holdpoint)
 
 For a system that runs on a schedule, PulseDeck records uptime checks in Git and opens an incident when a service goes down. [Live status](https://faizanxbuilds-status.vercel.app/) ? [Source](https://github.com/Faizan00parvez/pulsedeck)
 
